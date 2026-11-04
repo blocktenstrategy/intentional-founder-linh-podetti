@@ -1,0 +1,9 @@
+.DS_Store
+*.mp4
+*.mov
+*.wav
+*.psd
+*.zip
+videos/**/raw/
+videos/**/exports/
+.env
